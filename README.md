@@ -1,2 +1,2 @@
 # BallPark
-BallPark is a game where you try to guess the number of something like for example, the hight of the Burj Khalifa.
+BallPark is a game where you try to guess the number of something like for example, the height of the Burj Khalifa.
