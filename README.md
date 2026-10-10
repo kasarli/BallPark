@@ -51,6 +51,3 @@ Ballpark Oct 9 3/6
 ## Saving progress
 
 Your progress, stars and streak are saved in your browser with `localStorage`, so they survive closing the page. They live on that one browser and device. Clearing your site data, using a private window, or switching browsers or devices starts you fresh.
-
-
-Facts were written from memory, so double-check any you r
